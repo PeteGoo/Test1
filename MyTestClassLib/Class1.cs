@@ -8,5 +8,6 @@ namespace MyTestClassLib
 {
     public class Class1
     {
+        //Test Change
     }
 }
